@@ -1,0 +1,42 @@
+_repo: Trimardeur-roman-b-Termine-et-publie-avec-une-preface-par-Victor-Barrucand_71208
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Barrucand, Victor
+    birthdate: 1864
+    deathdate: 1934
+    gutenberg_agent_id: '53989'
+    url: http://www.gutenberg.org/2009/agents/53989
+    wikipedia: https://fr.wikipedia.org/wiki/Victor_Barrucand
+  - agent_name: Eberhardt, Isabelle
+    aliases:
+    - Ehnni, Isabelle Eberhardt
+    - Mahmoud, Si
+    - Saâdi, Mahmoud
+    - Saadi, Mahmoud
+    birthdate: 1877
+    deathdate: 1904
+    gutenberg_agent_id: '53988'
+    url: http://www.gutenberg.org/2009/agents/53988
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Isabelle_Eberhardt
+    - https://fr.wikipedia.org/wiki/Isabelle_Eberhardt
+description: ''
+gutenberg_issued: '2023-07-16'
+identifiers:
+  gutenberg: '71208'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=njp.32101071960718
+pgterms:marc905: 20230311232353eberhardt
+pgterms:marc906: '1922'
+pgterms:marc907: FR
+production_note: René Galluvot (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aFrance :$bCharpentier et Fasquelle, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Trimardeur: roman : $b Terminé et publié avec une préface par Victor Barrucand'
+url: http://www.gutenberg.org/ebooks/71208
