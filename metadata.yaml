@@ -1,5 +1,8 @@
 _repo: Trimardeur-roman-b-Termine-et-publie-avec-une-preface-par-Victor-Barrucand_71208
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71208-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Barrucand, Victor
@@ -22,6 +25,8 @@ creator:
     - https://en.wikipedia.org/wiki/Isabelle_Eberhardt
     - https://fr.wikipedia.org/wiki/Isabelle_Eberhardt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71208#Trimardeur-roman-b-Termine-et-publie-avec-une-preface-par-Victor-Barrucand
 gutenberg_issued: '2023-07-16'
 identifiers:
   gutenberg: '71208'
